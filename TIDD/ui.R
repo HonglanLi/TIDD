@@ -53,11 +53,15 @@ ui <- fluidPage(
       p("2. java jre/jdk v1.8 or above")
       
       
+      hr(style = "border-top: 1px solid #000000;"),
       
-      
-      
-      
-      
+      p("Download: "),
+      tags$a(href="https://github.com/HonglanLi/TIDD.git", "1.Download code from github"),
+      br(),
+      tags$a(href="https://rstudio.cloud/spaces/178915/project/2994889", "2.Download code from R studio cloud"),
+      br(),
+      tags$a(href="https://honglan-li.shinyapps.io/project/", "3.Test GUI from shinyapps.io"),
+       
       
   ),
     tabPanel(
