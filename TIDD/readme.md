@@ -4,6 +4,17 @@ TIDD is a universal post-processing tool which supports confident peptideidentif
 
 Here, we support two types of TIDD version -- a simple GUI based TIDD and command version of TIDD
 
+======================
+Code download from Github: https://github.com/HonglanLi/TIDD.git
+
+Download and test R&java code from R studio cloud: https://honglan-li.shinyapps.io/project/
+
+Test Gui from shinyapps.io: https://honglan-li.shinyapps.io/project/
+
+=====================
+
+
+
 1. GUI 
 
 It is based on R and java programming. 
@@ -27,9 +38,6 @@ So it required:
   > PSM results:put psm result files to data/PSM/
   > mgf files: make a new dir. under data/MGF/ 
                put mgf files to new dir.
-
-
-test version of GUI link: https://honglan-li.shinyapps.io/project/
 
 
 2. commmand  
